@@ -43,7 +43,7 @@ pip install -r requirements.txt
 * **Backbone**: `models.backbone.resnet_dcbam` encapsulates the ResNet50-like backbone and uses pretrained weights where possible.
 * **Typing & docstrings**: all public functions/classes include type hints and clear docstrings.
 * **Tests / examples**: `examples/test_backbone.py` demonstrates usage and verifies shapes.
-* **License**: MIT (change if needed).
+* **License**: MIT.
 
 ---
 
