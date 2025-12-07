@@ -1,6 +1,6 @@
 # ResNet-DCBAM
 
-A clean, GitHub-ready PyTorch implementation of **DCBAM (Dual Channel + Spatial Attention)** and a ResNet50 backbone with optional DCBAM integration. This repository contains typed, well-documented modules, an example, packaging files, and a clear README to publish on GitHub.
+A clean, GitHub-ready PyTorch implementation of **DCBAM (Dual Channel + Spatial Attention)** and a ResNet50 backbone with optional DCBAM integration. This repository contains typed, well-documented modules, an example, packaging files, and a clear README.
 
 ---
 
